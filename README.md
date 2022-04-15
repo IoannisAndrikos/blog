@@ -17,7 +17,7 @@
 - Open a terminal in Visual Studio Code and execute the following commands:
     - composer install (to install all packages are required)
     - php artisan serve (to load the project on the apache sever)
-    - php artisan migrate --seed (to fill the database with the tables as well as to create some data)
+    - php artisan migrate:fresh --seed (to fill the database with the tables as well as to create some data)
     - php artisan storage:link (to create a link on the storage folder of the project)
     - visit your localhost enviroment in http://127.0.0.1:8000
     - login using as admin credencials to create a post username: admin@example.com and password: admin1234
