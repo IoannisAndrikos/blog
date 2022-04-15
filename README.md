@@ -9,7 +9,7 @@
 
 ## TO DOs
 
-- Install XAMPP apache MySQL and PHP from here: [XAMPP/MySQL/PHP](https://www.apachefriends.org/index.html)
+- Install XAMPP apache, MySQL and PHP from here: [XAMPP/MySQL/PHP](https://www.apachefriends.org/index.html)
 - Install composer depedency manager for PHP from here: [Composer](https://getcomposer.org/)
 - Start Apache and MySQL through XAMPP control panel you have already intalled
 - Go to phpmyadmin and create a new database called "blog"
