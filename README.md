@@ -20,11 +20,9 @@
     - php artisan migrate --seed (to fill the database with the tables as well as to create some data)
     - php artisan storage:link (to create a link on the storage folder of the project)
     - visit your localhost enviroment in http://127.0.0.1:8000
-    - login using as admin to create a post username: admin@example.com
-                                                      password: admin1234
+    - login using as admin credencials to create a post username: admin@example.com and password: admin1234
 - Enjoy coding  
-                                                      
-                                               
+                                                                                                    
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
