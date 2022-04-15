@@ -27,7 +27,7 @@ class AppServiceProvider extends ServiceProvider
     public function boot()
     {
         Gate::define('admin', function (User $user) {
-        return $user->username === 'Jdepp';
+        return $user->username === 'administrator';
         });
 
         Blade::if('admin', function () {
